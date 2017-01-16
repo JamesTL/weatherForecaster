@@ -1,0 +1,15 @@
+{
+
+  "list":[{
+
+  "date":"234567",
+  "hours": "12",
+  "minutes":"0",
+  "day":"1",
+  "month":"12",
+  "year":"2017",
+  "temp":"1,4",
+  "weather":"light rain"
+}]
+
+}
