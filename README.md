@@ -1,2 +1,2 @@
 # weatherForecaster
-Weather Foecaster
+Weather Forecaster
